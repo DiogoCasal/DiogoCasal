@@ -1,7 +1,6 @@
 # Hi there, I'm Diogo 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&random=false&width=435&lines=Passionate+coder+and+lifelong+learner)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=F70000&random=false&width=435&lines=Passionate+coder+and+lifelong+learner)](https://git.io/typing-svg)
 Welcome to my GitHub profile! I'm a passionate programmer with a love for creating innovative solutions and learning new technologies. Here's a bit about me and what I do:
 
 ## About Me
