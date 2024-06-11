@@ -1,4 +1,4 @@
-# Hi there, I'm Diogo 👋
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Upside-Down%20Face.png" alt="Upside-Down Face" width="25" height="25" /> Hi there, I'm Diogo 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=F70000&random=false&width=435&lines=Passionate+coder+and+lifelong+learner)](https://git.io/typing-svg)
 
