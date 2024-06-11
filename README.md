@@ -58,3 +58,5 @@ Here are some of the skills and technologies I work with:
 - 🧩 I enjoy solving puzzles and challenges, whether they're programming-related or not.
 
 Thanks for visiting my profile! 😊
+
+![Snake animation](https://github.com/DiogoCasal/DiogoCasal/blob/output/github-contribution-grid-snake.svg)
