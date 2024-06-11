@@ -1,30 +1,28 @@
 # Hi there, I'm Diogo 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=F70000&random=false&width=435&lines=Passionate+coder+and+lifelong+learner)](https://git.io/typing-svg)
+
 Welcome to my GitHub profile! I'm a passionate programmer with a love for creating innovative solutions and learning new technologies. Here's a bit about me and what I do:
 
 ## About Me
 
-- 💻 I specialize in web development, particularly with JavaScript and frameworks like React and Node.js.
-- 🛠 I have experience in DevOps, working with tools such as Jenkins, Docker, and SonarQube.
-- 🌱 Currently, I'm learning more about cloud computing and exploring Kubernetes.
+- 💻 I specialize in fullstack development, particularly with JavaScript, React, Node.js and Razor.
+- 🛠 I have extensive experience in data science and integrating various systems and APIs.
 - 🎨 In my free time, I enjoy working on creative projects, especially those involving game development and content creation.
 
 ## Projects
 
 Here are some of the projects I've been working on:
 
-### [Project Name 1]
-A brief description of the project. This could be a web app, a tool, or any interesting project you're proud of.
-- **Technologies:** React, Node.js, MongoDB
-- **Features:** Feature 1, Feature 2, Feature 3
-- [Repository Link](https://github.com/yourusername/project1)
+### [MyLife]
+This is a simple website where I tell a little about myself! feel free to explore it!
+- **Technologies:** React, HTML, CSS
+- [Repository Link](https://github.com/DiogoCasal/MyLife)
 
-### [Project Name 2]
-Another project description. Highlight the technologies used and the key features.
-- **Technologies:** Python, Flask, PostgreSQL
-- **Features:** Feature 1, Feature 2, Feature 3
-- [Repository Link](https://github.com/yourusername/project2)
+### [Gardenia Produces Tales]
+This is a academic project for the course TI 4 at university: a 2D game called Gardenia Produces Tales. This innovative RPG stands out for its unique approach to creating dynamic stories, providing players with an engaging and ever-refreshing experience.
+- **Technologies:** C#, Unity, Custom GPTs
+- [Repository Link](https://github.com/DiogoCasal/GardeniaProducesTales)
 
 ## Get in Touch
 
@@ -38,7 +36,6 @@ I'm always open to discussing new projects, collaborations, or any interesting i
   <a href="www.linkedin.com/in/diogo-casal" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
-
 
 
 ## Skills
