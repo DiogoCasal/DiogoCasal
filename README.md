@@ -28,31 +28,21 @@ Another project description. Highlight the technologies used and the key feature
 ## Get in Touch
 
 I'm always open to discussing new projects, collaborations, or any interesting ideas. Feel free to reach out to me through:
+ 
+<div> 
+  <a href="https://www.instagram.com/di0932" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.twitch.tv/smilipow" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+  <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:diogocasalf@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="www.linkedin.com/in/diogo-casal" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
 
-- 📧 Email: [diogocasalf@gmail.com](mailto:diogocasalf@gmail.com)
-- 💼 LinkedIn: [Linkedin](www.linkedin.com/in/diogo-casal)
+
 
 ## Skills
 
 Here are some of the skills and technologies I work with:
-
-- **Languages:** JavaScript, Python, Java, SQL
-- **Frameworks:** React, Node.js, Razor, Flask
-- **Tools:** PowerBI, Git
-- **Databases:** PostgreSQL, MongoDB, MySQL
-
-## Fun Facts
-
-- 🎮 I love playing and developing games.
-- 📚 I'm an avid reader, always looking for book recommendations.
-- 🧩 I enjoy solving puzzles and challenges, whether they're programming-related or not.
-
-Thanks for visiting my profile! 😊
-
-
-
-
-
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -63,15 +53,11 @@ Thanks for visiting my profile! 😊
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
-  
-  ##
- 
-<div> 
-  <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/rafaballerinii" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
+
+## Fun Facts
+
+- 🎮 I love playing and developing games.
+- 📚 I'm an avid reader, always looking for book recommendations.
+- 🧩 I enjoy solving puzzles and challenges, whether they're programming-related or not.
+
+Thanks for visiting my profile! 😊
