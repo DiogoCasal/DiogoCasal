@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Upside-Down%20Face.png" alt="Upside-Down Face" width="25" height="25" /> Hi there, I'm Diogo 👋
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Upside-Down%20Face.png" alt="Upside-Down Face" width="35" height="35" /> Hi there, I'm Diogo <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Slightly%20Smiling%20Face.png" alt="Slightly Smiling Face" width="35" height="35" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=F70000&random=false&width=435&lines=Passionate+coder+and+lifelong+learner)](https://git.io/typing-svg)
 
@@ -39,17 +39,13 @@ I'm always open to discussing new projects, collaborations, or any interesting i
 
 ## Skills
 
-Here are some of the skills and technologies I work with:
+Here are some of the languages and frameworks I work with:
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Diogo-Js" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Diogo-Ts" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Diogo-React" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Diogo-HTML" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Diogo-CSS" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Diogo-Python" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Diogo-Csharp" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
+[![My Skills](https://skillicons.dev/icons?i=py,js,ts,html,css,bootstrap,c,cs,cpp,dotnet,react,jquery,mysql)](https://skillicons.dev)
+
+And here are some tools I use in development:
+
+[![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,androidstudio,notion,wordpress,git,github,figma,postman)](https://skillicons.dev)
 
 ## Fun Facts
 
@@ -57,10 +53,12 @@ Here are some of the skills and technologies I work with:
 - 📚 I'm an avid reader, always looking for book recommendations.
 - 🧩 I enjoy solving puzzles and challenges, whether they're programming-related or not.
 
-Thanks for visiting my profile! 😊
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DiogoCasal/DiogoCasal/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DiogoCasal/DiogoCasal/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DiogoCasal/DiogoCasal/output/github-contribution-grid-snake.svg">
 </picture>
+
+
+Thanks for visiting my profile! 😊
