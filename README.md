@@ -24,19 +24,6 @@ This is a academic project for the course TI 4 at university: a 2D game called G
 - **Technologies:** C#, Unity, Custom GPTs
 - [Repository Link](https://github.com/DiogoCasal/GardeniaProducesTales)
 
-## Get in Touch
-
-I'm always open to discussing new projects, collaborations, or any interesting ideas. Feel free to reach out to me through:
- 
-<div> 
-  <a href="https://www.linkedin.com/in/diogo-casal/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://www.instagram.com/di0932" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:diogocasalf@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/smilipow" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  
-</div>
-
-
 ## Skills
 
 Here are some of the languages and frameworks I work with:
@@ -53,6 +40,18 @@ And here are some tools I use in development:
 - 📚 I'm an avid reader, always looking for book recommendations.
 - 🧩 I enjoy solving puzzles and challenges, whether they're programming-related or not.
 
+
+## Get in Touch
+
+I'm always open to discussing new projects, collaborations, or any interesting ideas. Feel free to reach out to me through:
+ 
+<div> 
+  <a href="https://www.linkedin.com/in/diogo-casal/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.instagram.com/di0932" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:diogocasalf@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.twitch.tv/smilipow" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+  
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DiogoCasal/DiogoCasal/output/github-contribution-grid-snake-dark.svg">
