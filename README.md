@@ -45,7 +45,7 @@ Here are some of the languages and frameworks I work with:
 
 And here are some tools I use in development:
 
-[![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,androidstudio,notion,wordpress,git,github,figma,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,androidstudio,wordpress,git,github,figma,postman)](https://skillicons.dev)
 
 ## Fun Facts
 
