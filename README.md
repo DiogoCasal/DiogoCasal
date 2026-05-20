@@ -37,7 +37,6 @@ And here are some tools I use in development:
 ## Fun Facts
 
 - 🎮 I love playing and developing games.
-- 📚 I'm an avid reader, always looking for book recommendations.
 - 🧩 I enjoy solving puzzles and challenges, whether they're programming-related or not.
 
 
